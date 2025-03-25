@@ -1,4 +1,4 @@
-#student
+#studentanddetails
 
 
 person = {"'Name:','John Doe', 'Class','IV BCA C'"}
